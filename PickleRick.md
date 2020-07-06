@@ -111,4 +111,4 @@ Now that we have found the location of the third ingredient we are going to use 
 Command: `sudo less /root/3rd.txt`  
 ![ing3](images/ing3.png "ing3")  
 
-# Congratulations you have just completed the Pickel Rick challange!
+# Congratulations you have just completed the Pickel Rick challenge!
